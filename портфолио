@@ -1,0 +1,69 @@
+<!-- BEGIN -->
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Резюме Варвара Трофимова</title>
+  </head>
+
+  <body>
+    <div id="header">
+      <h1>Варвара Трофимова</h1>
+      <h3>Редактор</h3>
+      <p>
+        <a href="mailto:varvara.sergeevna.t@yandex.ru">varvara.sergeevna.t@yandex.ru</a>,
+        <a href="mailto:varvara.s.trofimova@gmail.com">varvara.s.trofimova@gmail.com</a>,
+      </p>
+    </div>
+
+    <div id="main">
+      <p>
+        Я начала писать в 2018 году. Работала копирайтером в Инстаграме. Сейчас развиваюсь в Школе редакторов.
+      </p>
+      <p>
+        Рассматриваю только удаленную работу.
+      </p>
+    
+    
+    <h2>Опыт работы</h2>
+
+          <h3>VKUS Company</h3>
+          <p>Копирайтер <i>февраль 2019 — август 2019</i></p>
+          <ul>
+            <li>Написание текстов</li>
+            <li>Размещение постов и сториз</li>
+            <li>Создание контент-плана</li>
+          </ul>
+
+    <h2>Образование</h2>
+
+          <h3>МГУПС (МИИТ)</h3>
+          <p>Менеджмент качества производственно-технических систем, бакалавр <i>2013 —  2017</i></p>
+
+          <h3>Колледж фитнеса и бодибилдинга им. Бена Вейдера</h3>
+          <p>Персональный тренер <i>2016</i></p>
+
+          <h3>Школа редакторов Бюро Горбунова</h3>
+          <p>Редактор <i>2019</i></p>
+
+    <h2>Другие навыки и увлечения</h2>
+
+          <ul>
+            <li>Спорт</li>
+            <li>Мода</li>
+            <li>Путешествия</li>
+          </ul>
+</div>
+    <div id="footer">
+      <strong>Варвара Трофимова</strong>
+      <br/>
+      ул. Амурская, 52, Москва, Россия
+      +7 963 996 98 16
+      <a href="mailto:varvara.sergeevna.t@yandex.ru">varvara.sergeevna.t@yandex.ru</a>
+    </div>
+
+  </body>
+</html>
+<!-- END -->
